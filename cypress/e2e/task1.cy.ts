@@ -1,5 +1,5 @@
-describe('template spec', () => {
-  it('passes', () => {
-    cy.visit('https://www.saucedemo.com/');
+describe("First Task", () => {
+  it("Cypress Initial Navigation", () => {
+    cy.visit("https://www.saucedemo.com/");
   });
 });
